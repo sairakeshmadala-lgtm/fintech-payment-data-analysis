@@ -46,6 +46,18 @@ fintech_payment_analysis_project/
 
 ## Data quality checks
 The sample intentionally includes a missing category and a duplicate transaction ID so you can demonstrate cleaning. The analysis script removes duplicate transaction IDs and fills missing categories with `Unknown`.
+## Visualizations
 
+### Daily Successful Payment Value
+![Daily Successful Payment Value](daily_successful_value.png)
+
+### Transaction Status Distribution
+![Transaction Status Distribution](transaction_status.png)
+
+## Key Skills Demonstrated
+- Python and Pandas for data cleaning
+- SQL for transaction analysis
+- Matplotlib for data visualization
+- CSV data processing and reporting
 ## Important
 All transaction data is synthetic and fictional. Do not describe this as Razorpay internal data or claim business results are from a real payment company. Explain it as a personal portfolio project using sample data.
